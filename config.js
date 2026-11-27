@@ -10,7 +10,7 @@ window.SITE = {
   tagline: "Survive, compete and build with friends.",
   description: "Lifesteal SMP, SMP, Economy and FFA & Practice on one fast network for Java and Bedrock players.",
   logo: "DONSMC Royal Minecraft Emblem.png",                // your logo file (same folder)
-  background: "DONSMC Royal Minecraft Emblem.png",    // your background image (same folder). A default scene shows if the file is missing.
+  background: "Moonlit Castle Over Misty Voxel Valleys.png",    // your background image (same folder). A default scene shows if the file is missing.
   color: "emerald",                // emerald, blue, gold, red, purple, cyan, pink, orange
   java:    { ip: "play.donsmc.qd.je", version: "1.21+" },
   bedrock: { ip: "play.donsmc.qd.je", port: 19179 },
