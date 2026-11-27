@@ -3,7 +3,7 @@ window.SITE = {
   name: "DONS MC",
   tagline: "One network. Four ways to play.",
   description: "Lifesteal SMP, SMP, Economy and FFA & Practice, run on fast hardware by a team that is online every day.",
-  logo: "assets/logo.png",              // put your emblem here (png/svg)
+  logo: "DONSMC Royal Minecraft Emblem.png",              // put your emblem here (png/svg)
   favicon: "assets/logo.png",
   background: "assets/background.jpg",  // put your castle background here
   java:    { ip: "play.donsmc.qd.je", version: "1.21+" },
