@@ -12,8 +12,8 @@ window.SITE = {
   logo: "DONSMC Royal Minecraft Emblem.png",                // your logo file (same folder)
   background: "Moonlit Castle Over Misty Voxel Valleys.png",    // your background image (same folder). A default scene shows if the file is missing.
   color: "emerald",                // emerald, blue, gold, red, purple, cyan, pink, orange
-  java:    { ip: "play.donsmc.qd.je", version: "1.21+" },
-  bedrock: { ip: "play.donsmc.qd.je", port: 19179 },
+  java:    { ip: "node2.mortaltheimmortal.win:19178", version: "1.21+" },
+  bedrock: { ip: "node2.mortaltheimmortal.win", port: 19178 },
   links: { discord: "https://discord.gg/XuqyWav8va", support: "https://discord.gg/XuqyWav8va", store: "", youtube: "" },  // store empty = "Store soon"
   effects: { intro: true, fog: true, fireflies: true, thunder: true, parallax: true, cursor: true, themeSwitcher: true },  // true = on, false = off
 
